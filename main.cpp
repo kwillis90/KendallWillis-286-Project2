@@ -794,7 +794,7 @@ static void run_simulator(std::ostream &out, const ProgramImage &img) {
     }
 }
 
-// PROMPT: Program starts here.
+
 // Check the command-line arguments, load the binary file, create the output file,
 // print the decoder section, then run the simulator.
 int main(int argc, char **argv) {
