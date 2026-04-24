@@ -1,3 +1,8 @@
+# MIPS Simulator Project README
+
+## Group Members
+- Kendall Willis
+  Email: kendalw@siue.edu
 - Models L1 and L2 cache with stalls and misses
 - Outputs cycle-by-cycle state of the machine
 
@@ -36,7 +41,7 @@ Example:
 - Cache misses introduce stalls using pending fill logic
 
 ---
-
+    
 ## Summary
 This project demonstrates:
 - MIPS instruction decoding
